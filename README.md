@@ -7,9 +7,9 @@ Various binary tools for Linux/UNIX
 
 |   Binary      |   Shortcut    |Static |
 | ------------- |:-------------:| -----:|
-| BusyBox       | bb | # [checkbox:checked]  |
-| DarkHttpd      | dh      | # [checkbox:checked]  |
-| Rsync | rs      | # [checkbox:checked]  |
+| BusyBox       | bb | <ul><li>[x] item1</li>  |
+| DarkHttpd      | dh      | <ul><li>[x] item1</li>  |
+| Rsync | rs      | <ul><li>[x] item1</li>  |
 
 # Shortened URL
 
