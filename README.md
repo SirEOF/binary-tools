@@ -13,7 +13,6 @@ Various binary tools for Linux/UNIX
 | `Nano`      | `nn`      |<ul><li>[x] </li>  |
 | `Socat` | `sc`      |<ul><li>[x] </li>  |
 
-
 # Filename map (ARM)
 
 |   Binary      |   Shortcut    |Static |
@@ -22,7 +21,6 @@ Various binary tools for Linux/UNIX
 | `PV`      | `pv`      |<ul><li>[x] </li>  |
 | `Strace` | `st`      |<ul><li>[x] </li>  |
 | `TcpDump`      | `td`      |<ul><li>[x] </li>  |
-
 
 # Shortened URL
 
