@@ -3,7 +3,7 @@
 
 Various binary tools for Linux/UNIX
 
-# Filename map
+# Filename map (x64)
 
 |   Binary      |   Shortcut    |Static |
 | ------------- |:-------------:| -----:|
@@ -12,6 +12,17 @@ Various binary tools for Linux/UNIX
 | `Rsync` | `rs`      |<ul><li>[x] </li>  |
 | `Nano`      | `nn`      |<ul><li>[x] </li>  |
 | `Socat` | `sc`      |<ul><li>[x] </li>  |
+
+
+# Filename map (ARM)
+
+|   Binary      |   Shortcut    |Static |
+| ------------- |:-------------:| -----:|
+| `BusyBox`       | `bb` |<ul><li>[x] </li>  |
+| `PV`      | `pv`      |<ul><li>[x] </li>  |
+| `Strace` | `st`      |<ul><li>[x] </li>  |
+| `TcpDump`      | `td`      |<ul><li>[x] </li>  |
+
 
 # Shortened URL
 
