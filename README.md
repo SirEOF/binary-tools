@@ -10,6 +10,8 @@ Various binary tools for Linux/UNIX
 | `BusyBox`       | `bb` |<ul><li>[x] </li>  |
 | `DarkHttpd`      | `dh`      |<ul><li>[x] </li>  |
 | `Rsync` | `rs`      |<ul><li>[x] </li>  |
+| `Nano`      | `nn`      |<ul><li>[x] </li>  |
+| `Socat` | `sc`      |<ul><li>[x] </li>  |
 
 # Shortened URL
 
