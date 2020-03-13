@@ -26,7 +26,7 @@ Various binary tools for Linux/UNIX
 | [Nano](https://www.nano-editor.org/)                      | `nano`                |  Static       |
 | [PassiveDNS](https://github.com/gamelinux/passivedns)     | `pdns`                |  Static       |
 | [Socat](http://www.dest-unreach.org/socat/)               | `socat`               |  Static       |
-| [Suricata](https://suricata-ids.org/)                     | `miniserve`           |  AppImage     |
+| [Suricata](https://suricata-ids.org/)                     | `suricata`            |  AppImage     |
 | [WG Tools](https://github.com/WireGuard/wireguard-tools)  | `wg-user`             |  Static       |
 | [Zgrab/2](https://github.com/zmap/zgrab2)                 | `zgrab` `zgrab2`      |  Static       |
 | [Zmap](https://github.com/zmap/zmap)                      | `ztee` `zmap` `zmapbl`|  Static       |
