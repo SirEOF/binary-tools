@@ -28,6 +28,8 @@ Various binary tools for Linux/UNIX
 | [WG Tools](https://github.com/WireGuard/wireguard-tools)  | `wg-user`             |  Static       |
 | [Zgrab/2](https://github.com/zmap/zgrab2)                 | `zgrab` `zgrab2`      |  Static       |
 | [Zmap](https://github.com/zmap/zmap)                      | `ztee` `zmap` `zmapbl`|  Static       |
+| [Bandwhich](https://github.com/imsnif/bandwhich)          | `bandwhich`           |  Static       |
+| [Kibi](https://github.com/ilai-deutel/kibi)               | `kibi`                |  Static       |
 
 
 
