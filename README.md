@@ -8,6 +8,7 @@ Various binary tools for Linux/UNIX
 |   Software                                                | Filename              | Binary link   |
 | ----------------------------------------------------------|:---------------------:| -------------:|
 | [3proxy](https://github.com/z3APA3A/3proxy)               | `3proxy`              |  Static       |
+| [Bandwhich](https://github.com/imsnif/bandwhich)          | `bandwhich`           |  Static       |
 | [Brook](https://github.com/txthinking/brook)              | `brook`               |  Static       |
 | [BusyBox](https://busybox.net)                            | `busybox`             |  Static       |
 | [curl](https://github.com/curl/curl)                      | `curl`                |  Static       |
@@ -20,6 +21,7 @@ Various binary tools for Linux/UNIX
 | [ICMP Tunnel](https://github.com/DhavalKapil/icmptunnel)  | `icmptunnel`          |  Static       |
 | [iodine](https://github.com/yarrick/iodine)               | `iodine`/`iodined`    |  Static       |
 | [IOPing](https://github.com/koct9i/ioping)                | `ioping`              |  Static       |
+| [Kibi](https://github.com/ilai-deutel/kibi)               | `kibi`                |  Static       |
 | [Miniserve](https://github.com/svenstaro/miniserve)       | `miniserve`           |  Static       |
 | [Nano](https://www.nano-editor.org/)                      | `nano`                |  Static       |
 | [PassiveDNS](https://github.com/gamelinux/passivedns)     | `pdns`                |  Static       |
@@ -28,8 +30,6 @@ Various binary tools for Linux/UNIX
 | [WG Tools](https://github.com/WireGuard/wireguard-tools)  | `wg-user`             |  Static       |
 | [Zgrab/2](https://github.com/zmap/zgrab2)                 | `zgrab` `zgrab2`      |  Static       |
 | [Zmap](https://github.com/zmap/zmap)                      | `ztee` `zmap` `zmapbl`|  Static       |
-| [Bandwhich](https://github.com/imsnif/bandwhich)          | `bandwhich`           |  Static       |
-| [Kibi](https://github.com/ilai-deutel/kibi)               | `kibi`                |  Static       |
 
 
 
