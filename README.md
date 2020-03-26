@@ -21,6 +21,7 @@ Various binary tools for Linux/UNIX
 | [ICMP Tunnel](https://github.com/DhavalKapil/icmptunnel)  | `icmptunnel`          |  Static       |
 | [iodine](https://github.com/yarrick/iodine)               | `iodine`/`iodined`    |  Static       |
 | [IOPing](https://github.com/koct9i/ioping)                | `ioping`              |  Static       |
+| [NetCat](https://www.freebsd.org/cgi/man.cgi?query=netcat)| `nc`                  |  Dynamic      |
 | [Kibi](https://github.com/ilai-deutel/kibi)               | `kibi`                |  Static       |
 | [Miniserve](https://github.com/svenstaro/miniserve)       | `miniserve`           |  Static       |
 | [Nano](https://www.nano-editor.org/)                      | `nano`                |  Static       |
