@@ -18,6 +18,7 @@ Various binary tools for Linux/UNIX
 | [Dead Simple VPN](https://github.com/jedisct1/dsvpn)      | `dsvpn`               |  Static       |
 | [Gost](https://github.com/ginuerzh/gost)                  | `gost`                |  Static       |
 | [Gotop](https://github.com/cjbassi/gotop)                 | `gotop`               |  Static       |
+| [Htop](https://hisham.hm/htop/)                           | `htop`                |  Static       |
 | [ICMP Tunnel](https://github.com/DhavalKapil/icmptunnel)  | `icmptunnel`          |  Static       |
 | [iodine](https://github.com/yarrick/iodine)               | `iodine`/`iodined`    |  Static       |
 | [IOPing](https://github.com/koct9i/ioping)                | `ioping`              |  Static       |
