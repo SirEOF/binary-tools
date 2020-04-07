@@ -11,6 +11,7 @@ Various binary tools for Linux/UNIX
 | [Bandwhich](https://github.com/imsnif/bandwhich)          | `bandwhich`           |  Static       |
 | [Brook](https://github.com/txthinking/brook)              | `brook`               |  Static       |
 | [BusyBox](https://busybox.net)                            | `busybox`             |  Static       |
+| [Corkscrew](https://github.com/bryanpkc/corkscrew)        | `corkscrew`           |  Static       |
 | [curl](https://github.com/curl/curl)                      | `curl`                |  Static       |
 | [Darkhttpd](https://github.com/ryanmjacobs/darkhttpd)     | `dh`                  |  Static       |
 | [DnsMonster](https://github.com/mosajjal/dnsmonster)      | `dnsmonster`          |  Dynamic      |
