@@ -5,34 +5,33 @@ Various binary tools for Linux/UNIX
 
 # Filename map (x64)
 
-|   Software                                                | Filename              | Binary link   |
-| ----------------------------------------------------------|:---------------------:| -------------:|
-| [3proxy](https://github.com/z3APA3A/3proxy)               | `3proxy`              |  Static       |
-| [Bandwhich](https://github.com/imsnif/bandwhich)          | `bandwhich`           |  Static       |
-| [Brook](https://github.com/txthinking/brook)              | `brook`               |  Static       |
-| [BusyBox](https://busybox.net)                            | `busybox`             |  Static       |
-| [Corkscrew](https://github.com/bryanpkc/corkscrew)        | `corkscrew`           |  Static       |
-| [curl](https://github.com/curl/curl)                      | `curl`                |  Static       |
-| [Darkhttpd](https://github.com/ryanmjacobs/darkhttpd)     | `dh`                  |  Static       |
-| [DnsMonster](https://github.com/mosajjal/dnsmonster)      | `dnsmonster`          |  Dynamic      |
-| [Dropbear](https://github.com/mkj/dropbear)               | `dropbear`            |  Static       |
-| [Dead Simple VPN](https://github.com/jedisct1/dsvpn)      | `dsvpn`               |  Static       |
-| [Gost](https://github.com/ginuerzh/gost)                  | `gost`                |  Static       |
-| [Gotop](https://github.com/cjbassi/gotop)                 | `gotop`               |  Static       |
-| [Htop](https://hisham.hm/htop/)                           | `htop`                |  Static       |
-| [ICMP Tunnel](https://github.com/DhavalKapil/icmptunnel)  | `icmptunnel`          |  Static       |
-| [iodine](https://github.com/yarrick/iodine)               | `iodine`/`iodined`    |  Static       |
-| [IOPing](https://github.com/koct9i/ioping)                | `ioping`              |  Static       |
-| [NetCat](https://www.freebsd.org/cgi/man.cgi?query=netcat)| `nc`                  |  Static       |
-| [Kibi](https://github.com/ilai-deutel/kibi)               | `kibi`                |  Static       |
-| [Miniserve](https://github.com/svenstaro/miniserve)       | `miniserve`           |  Static       |
-| [Nano](https://www.nano-editor.org/)                      | `nano`                |  Static       |
-| [PassiveDNS](https://github.com/gamelinux/passivedns)     | `pdns`                |  Static       |
-| [Socat](http://www.dest-unreach.org/socat/)               | `socat`               |  Static       |
-| [Suricata](https://suricata-ids.org/)                     | `suricata`            |  AppImage     |
-| [WG Tools](https://github.com/WireGuard/wireguard-tools)  | `wg-user`             |  Static       |
-| [Zgrab/2](https://github.com/zmap/zgrab2)                 | `zgrab` `zgrab2`      |  Static       |
-| [Zmap](https://github.com/zmap/zmap)                      | `ztee` `zmap` `zmapbl`|  Static       |
+|   Software                                                | Version        |Filename               | Binary link   |
+| ----------------------------------------------------------|----------------|:---------------------:| -------------:|
+| [3proxy](https://github.com/z3APA3A/3proxy)               |0.9-devel       | `3proxy`              |  Static       |
+| [Bandwhich](https://github.com/imsnif/bandwhich)          |0.12.0          | `bandwhich`           |  Static       |
+| [Brook](https://github.com/txthinking/brook)              |20181212        | `brook`               |  Static       |
+| [BusyBox](https://busybox.net)                            |1.29.2          | `busybox`             |  Static       |
+| [Corkscrew](https://github.com/bryanpkc/corkscrew)        |2.0             | `corkscrew`           |  Static       |
+| [curl](https://github.com/curl/curl)                      |7.63.0          | `curl`                |  Static       |
+| [Darkhttpd](https://github.com/ryanmjacobs/darkhttpd)     |1.12.from.git   | `dh`                  |  Static       |
+| [DnsMonster](https://github.com/mosajjal/dnsmonster)      |0.1             | `dnsmonster`          |  Dynamic      |
+| [Dropbear](https://github.com/mkj/dropbear)               |2018.76         | `dropbear`            |  Static       |
+| [Dead Simple VPN](https://github.com/jedisct1/dsvpn)      |0.1.3           | `dsvpn`               |  Static       |
+| [Gost](https://github.com/ginuerzh/gost)                  |2.7.1           | `gost`                |  Static       |
+| [Gotop](https://github.com/cjbassi/gotop)                 |2.0.1           | `gotop`               |  Static       |
+| [Htop](https://hisham.hm/htop/)                           |1.0.3           | `htop`                |  Static       |
+| [ICMP Tunnel](https://github.com/DhavalKapil/icmptunnel)  |1.0.0-alpha     | `icmptunnel`          |  Static       |
+| [iodine](https://github.com/yarrick/iodine)               |0.7.0           | `iodine`/`iodined`    |  Static       |
+| [IOPing](https://github.com/koct9i/ioping)                |0.9             | `ioping`              |  Static       |
+| [NetCat](https://www.freebsd.org/cgi/man.cgi?query=netcat)|1.68            | `nc`                  |  Static       |
+| [Kibi](https://github.com/ilai-deutel/kibi)               |0.1.2           | `kibi`                |  Static       |
+| [Miniserve](https://github.com/svenstaro/miniserve)       |0.5.0           | `miniserve`           |  Static       |
+| [Nano](https://www.nano-editor.org/)                      |2.7.0           | `nano`                |  Static       |
+| [PassiveDNS](https://github.com/gamelinux/passivedns)     |1.2.1           | `pdns`                |  Static       |
+| [Socat](http://www.dest-unreach.org/socat/)               |1.7.3.0         | `socat`               |  Static       |
+| [WG Tools](https://github.com/WireGuard/wireguard-tools)  |0.3.0           | `wg-user`             |  Static       |
+| [Zgrab/2](https://github.com/zmap/zgrab2)                 |0.1.3           | `zgrab` `zgrab2`      |  Static       |
+| [Zmap](https://github.com/zmap/zmap)                      |2.1.1           | `ztee` `zmap` `zmapbl`|  Static       |
 
 
 
@@ -40,10 +39,10 @@ Various binary tools for Linux/UNIX
 
 |   Binary      |   Shortcut    |Static     |
 | ------------- |:-------------:| -----:|
-| `BusyBox`       | `bb` |<ul><li>[x] </li>  |
-| `PV`      | `pv`      |<ul><li>[x] </li>  |
-| `Strace` | `st`      |<ul><li>[x] </li>  |
-| `TcpDump`      | `td`      |<ul><li>[x] </li>  |
+|                | `BusyBox`       |                | `bb` |<ul><li>[x] </li>  |
+|                | `PV`      |                | `pv`      |<ul><li>[x] </li>  |
+|                | `Strace` |                | `st`      |<ul><li>[x] </li>  |
+|                | `TcpDump`      |                | `td`      |<ul><li>[x] </li>  |
 
 # Shortened URL
 
