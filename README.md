@@ -29,6 +29,7 @@ Various binary tools for Linux/UNIX
 | [Nano](https://www.nano-editor.org/)                      |2.7.0           | `nano`                |  Static       |
 | [PassiveDNS](https://github.com/gamelinux/passivedns)     |1.2.1           | `pdns`                |  Static       |
 | [Socat](http://www.dest-unreach.org/socat/)               |1.7.3.0         | `socat`               |  Static       |
+| [TCPDump](https://www.tcpdump.org/)                       |4.7.4           | `tcpdump`             |  Static       |
 | [WG Tools](https://github.com/WireGuard/wireguard-tools)  |0.3.0           | `wg-user`             |  Static       |
 | [Zgrab/2](https://github.com/zmap/zgrab2)                 |0.1.3           | `zgrab` `zgrab2`      |  Static       |
 | [Zmap](https://github.com/zmap/zmap)                      |2.1.1           | `ztee` `zmap` `zmapbl`|  Static       |
