@@ -20,6 +20,7 @@ Various binary tools for Linux/UNIX
 | [Gost](https://github.com/ginuerzh/gost)                  |2.7.1           | `gost`                |  Static       |
 | [Gotop](https://github.com/cjbassi/gotop)                 |2.0.1           | `gotop`               |  Static       |
 | [Htop](https://hisham.hm/htop/)                           |1.0.3           | `htop`                |  Static       |
+| [httptunnel](https://www.gnu.org/software/httptunnel/)    |3.3.git         | `httptunnel-*`        |  Static       |
 | [ICMP Tunnel](https://github.com/DhavalKapil/icmptunnel)  |1.0.0-alpha     | `icmptunnel`          |  Static       |
 | [iodine](https://github.com/yarrick/iodine)               |0.7.0           | `iodine`/`iodined`    |  Static       |
 | [IOPing](https://github.com/koct9i/ioping)                |0.9             | `ioping`              |  Static       |
