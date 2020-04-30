@@ -17,6 +17,7 @@ Various binary tools for Linux/UNIX
 | [DnsMonster](https://github.com/mosajjal/dnsmonster)      |0.1             | `dnsmonster`          |  Dynamic      |
 | [Dropbear](https://github.com/mkj/dropbear)               |2018.76         | `dropbear`            |  Static       |
 | [Dead Simple VPN](https://github.com/jedisct1/dsvpn)      |0.1.3           | `dsvpn`               |  Static       |
+| [Fish](https://github.com/fish-shell/fish-shell)          |3.1.0           | `fish`                |  Static       |
 | [Gost](https://github.com/ginuerzh/gost)                  |2.7.1           | `gost`                |  Static       |
 | [Gotop](https://github.com/cjbassi/gotop)                 |2.0.1           | `gotop`               |  Static       |
 | [Htop](https://hisham.hm/htop/)                           |1.0.3           | `htop`                |  Static       |
