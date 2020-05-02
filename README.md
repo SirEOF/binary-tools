@@ -17,8 +17,9 @@ Various binary tools for Linux/UNIX
 | [DnsMonster](https://github.com/mosajjal/dnsmonster)      |0.1             | `dnsmonster`          |  Dynamic      |
 | [Dropbear](https://github.com/mkj/dropbear)               |2018.76         | `dropbear`            |  Static       |
 | [Dead Simple VPN](https://github.com/jedisct1/dsvpn)      |0.1.3           | `dsvpn`               |  Static       |
-| [Fzf](https://github.com/junegunn/fzf)                    |0.21.1          | `fzf`                 |  Static       |
+| [fd](https://github.com/sharkdp/fd)                       |8.0.0           | `fd`                  |  Static       |
 | [Fish](https://github.com/fish-shell/fish-shell)          |3.1.0           | `fish`                |  Static       |
+| [Fzf](https://github.com/junegunn/fzf)                    |0.21.1          | `fzf`                 |  Static       |
 | [Gost](https://github.com/ginuerzh/gost)                  |2.7.1           | `gost`                |  Static       |
 | [Gotop](https://github.com/cjbassi/gotop)                 |2.0.1           | `gotop`               |  Static       |
 | [Htop](https://hisham.hm/htop/)                           |1.0.3           | `htop`                |  Static       |
@@ -31,6 +32,8 @@ Various binary tools for Linux/UNIX
 | [Miniserve](https://github.com/svenstaro/miniserve)       |0.5.0           | `miniserve`           |  Static       |
 | [Nano](https://www.nano-editor.org/)                      |2.7.0           | `nano`                |  Static       |
 | [PassiveDNS](https://github.com/gamelinux/passivedns)     |1.2.1           | `pdns`                |  Static       |
+| [Powerline-go](https://github.com/justjanne/powerline-go) |1.17.0          | `pline-go`            |  Static       |
+| [rg](https://github.com/BurntSushi/ripgrep)               |12.0.1          | `rg`                  |  Static       |
 | [Socat](http://www.dest-unreach.org/socat/)               |1.7.3.0         | `socat`               |  Static       |
 | [TCPDump](https://www.tcpdump.org/)                       |4.7.4           | `tcpdump`             |  Static       |
 | [WG Tools](https://github.com/WireGuard/wireguard-tools)  |0.3.0           | `wg-user`             |  Static       |
