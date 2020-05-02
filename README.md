@@ -30,6 +30,7 @@ Various binary tools for Linux/UNIX
 | [IOPing](https://github.com/koct9i/ioping)                |0.9             | `ioping`              |  Static       |
 | [NetCat](https://www.freebsd.org/cgi/man.cgi?query=netcat)|1.68            | `nc`                  |  Static       |
 | [Kibi](https://github.com/ilai-deutel/kibi)               |0.1.2           | `kibi`                |  Static       |
+| [Micro](https://github.com/zyedidia/micro)                |2.0.3           | `micro`               |  Static       |
 | [Miniserve](https://github.com/svenstaro/miniserve)       |0.5.0           | `miniserve`           |  Static       |
 | [Nano](https://www.nano-editor.org/)                      |2.7.0           | `nano`                |  Static       |
 | [PassiveDNS](https://github.com/gamelinux/passivedns)     |1.2.1           | `pdns`                |  Static       |
@@ -45,12 +46,12 @@ Various binary tools for Linux/UNIX
 
 # Filename map (ARM)
 
-|   Binary      |   Shortcut    |Static     |
-| ------------- |:-------------:| -----:|
-|                | `BusyBox`       |                | `bb` |<ul><li>[x] </li>  |
-|                | `PV`      |                | `pv`      |<ul><li>[x] </li>  |
-|                | `Strace` |                | `st`      |<ul><li>[x] </li>  |
-|                | `TcpDump`      |                | `td`      |<ul><li>[x] </li>  |
+|   Binary      |   Shortcut    |Static             |
+| ------------- |:-------------:| -----------------:|
+|`BusyBox`      |`bb`           |<ul><li>[x] </li>  |
+|`PV`           |`pv`           |<ul><li>[x] </li>  |
+|`Strace`       |`st`           |<ul><li>[x] </li>  |
+|`TcpDump`      |`td`           |<ul><li>[x] </li>  |
 
 # Shortened URL
 
