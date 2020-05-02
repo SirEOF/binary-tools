@@ -19,6 +19,7 @@ Various binary tools for Linux/UNIX
 | [Dead Simple VPN](https://github.com/jedisct1/dsvpn)      |0.1.3           | `dsvpn`               |  Static       |
 | [fd](https://github.com/sharkdp/fd)                       |8.0.0           | `fd`                  |  Static       |
 | [Fish](https://github.com/fish-shell/fish-shell)          |3.1.0           | `fish`                |  Static       |
+| [ffuf](https://github.com/ffuf/ffuf)                      |1.0.2           | `ffuf`                |  Static       |
 | [Fzf](https://github.com/junegunn/fzf)                    |0.21.1          | `fzf`                 |  Static       |
 | [Gost](https://github.com/ginuerzh/gost)                  |2.7.1           | `gost`                |  Static       |
 | [Gotop](https://github.com/cjbassi/gotop)                 |2.0.1           | `gotop`               |  Static       |
