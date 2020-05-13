@@ -13,7 +13,7 @@ Various binary tools for Linux/UNIX
 | [Brook](https://github.com/txthinking/brook)              |20181212        | `brook`               |  Static       |
 | [BusyBox](https://busybox.net)                            |1.29.2          | `busybox`             |  Static       |
 | [Corkscrew](https://github.com/bryanpkc/corkscrew)        |2.0             | `corkscrew`           |  Static       |
-| [curl](https://github.com/curl/curl)                      |7.63.0          | `curl`                |  Static       |
+| [curl](https://github.com/curl/curl)                      |7.70.0          | `curl`                |  Static       |
 | [Darkhttpd](https://github.com/ryanmjacobs/darkhttpd)     |1.12.from.git   | `dh`                  |  Static       |
 | [DnsMonster](https://github.com/mosajjal/dnsmonster)      |0.1             | `dnsmonster`          |  Dynamic      |
 | [Dropbear](https://github.com/mkj/dropbear)               |2018.76         | `dropbear`            |  Static       |
