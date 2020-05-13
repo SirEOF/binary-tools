@@ -9,6 +9,7 @@ Various binary tools for Linux/UNIX
 | ----------------------------------------------------------|----------------|:---------------------:| -------------:|
 | [3proxy](https://github.com/z3APA3A/3proxy)               |0.9-devel       | `3proxy`              |  Static       |
 | [Bandwhich](https://github.com/imsnif/bandwhich)          |0.12.0          | `bandwhich`           |  Static       |
+| [Bed](https://github.com/itchyny/bed)                     |0.2.0           | `bed`                 |  Static       |
 | [Brook](https://github.com/txthinking/brook)              |20181212        | `brook`               |  Static       |
 | [BusyBox](https://busybox.net)                            |1.29.2          | `busybox`             |  Static       |
 | [Corkscrew](https://github.com/bryanpkc/corkscrew)        |2.0             | `corkscrew`           |  Static       |
