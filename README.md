@@ -5,8 +5,8 @@ Various binary tools for Linux/UNIX
 
 # Filename map (x64)
 
-|   Software                                                | Version        |Filename               | Binary link   | SHA256
-| ----------------------------------------------------------|----------------|:---------------------:| -------------:| -----------------------------------------------------------------|
+|   Software                                                | Version        |Filename               | Binary link   | SHA256                                                             |
+|-----------------------------------------------------------|----------------|-----------------------|---------------|--------------------------------------------------------------------|
 | [3proxy](https://github.com/z3APA3A/3proxy)               |0.9-devel       | `3proxy`              |  Static       | `473caf301da2308794a5e29bd2abcee8e89179700e57a4dd03858ada112fb155` |
 | [Bandwhich](https://github.com/imsnif/bandwhich)          |0.12.0          | `bandwhich`           |  Static       | `2a282d185468296db05d35d2b0d53d43d1023e789938648cd319a19b82eb3d3e` |
 | [Bed](https://github.com/itchyny/bed)                     |0.2.0           | `bed`                 |  Static       | `0f96ef70fa54f34a3fb95690ed2ddec9e39320110e91b3687eef4606a5a3e810` |
