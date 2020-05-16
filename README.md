@@ -1,7 +1,9 @@
 
 # Binary Toolbox
 
-Various binary tools for Linux/UNIX
+Various Useful tools as statically linked ELF binaries with no dependencies. Download, use, delete. 
+
+All binaries have been stripped and packed with [upx](https://github.com/upx/upx) in order to have the smallest footprint.
 
 # Filename map (x64)
 
@@ -49,31 +51,31 @@ Various binary tools for Linux/UNIX
 
 # Filename map (ARM)
 
-|   Binary      |   Shortcut  |Static          |
-| ------------- |:-------------:| -----------------:|
-|`BusyBox` |`bb`           |<ul><li>[x] </li>  |
-|`PV`      |`pv`           |<ul><li>[x] </li>  |
-|`Strace`  |`st`           |<ul><li>[x] </li>  |
-|`TcpDump` |`td`           |<ul><li>[x] </li>  |
+|Software                                    |Version |Filename   |Link    |SHA256                                                             |
+| [Busybox](https://busybox.net)             |UNKNOWN |`busybox`  |Static  |`ab9f082bf63528eebf1a102427283ad8a3bb243fb9b5f2187a6ed4d641e0175a` |
+| [pv](https://linux.die.net/man/1/pv)       |UNKNOWN |`pv`       |Static  |`f2d0b4fdba5929270832e4a6920aff1feb2ec6ae3a576fc2c9a45e7c1e72715b` |
+| [Strace](https://github.com/strace/strace) |UNKNOWN |`strace`   |Static  |`9fc5d32b2681827b876b4466565b03ed002d90945253fb7c7745051a2870c79d` |
+| [TCPDump](https://www.tcpdump.org/)        |UNKNOWN |`tcpdump`  |Static  |`f813f9a5448d80a9bda334b94769fb551053d53a679d17f8b4fc58bdb7e5fc7b` |
+
+
 
 # Shortened URL
 
-to easily download these binaries, use the following command:
+to download these binaries, you can use the shortned URL format 
 
-`wget n0p.me/bin/XX`
-
-XX is the name of the binary you want to download. For example, if you want to download a  Statically linked `darkhttpd`, the command would be:
-
-`wget n0p.me/bin/dh`
+`wget n0p.me/bin/FILENAME`
 
 # Custom Architectures
 
 by default, the URL mapper will point to `x64` folder. If a new folder gets added (`arm` for example), the URL will work like this:
 
-`wget n0p.me/bin/arm/XX`
-
-I'll add the mapping table for each architectures as soon as I added them into this repository.
+`wget n0p.me/bin/arm/FILENAME`
 
 # What is it for
 
-It's mainly developed to use in "tight" environments. For example, if you want to set up a simple HTTP Server to download something inside a docker container, or you just want to use a vi editor using `busybox`, you can easily download, use and then `rm` the whole thing in no time.
+* Testing the tools before searching for them in your package manager (yum, apt, pacman)
+* Use in prod servers without having to run package manager
+* Use inside Containers (we all know editing the file inside a container is a nightmare)
+* Use inside servers with no internet connectivity (`scp`/`docker cp` and run)
+* To build the leanest possible Containers out of statically linked binaries rather than a distro image
+
